@@ -1,3 +1,5 @@
 Hello test,
-created file "File1.txt" in hist machine
+created file "File1.txt" in host machine
     adding it to git.
+
+modifying content of the file from  the branch "explore"
